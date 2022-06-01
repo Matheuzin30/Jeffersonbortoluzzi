@@ -10,4 +10,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeffersonbortoluzzi&layout=compact&langs_count=7&theme=dracula"/>
         
 </div>
-![snake animation](https://github.com/Jeffersonbortoluzzi/Jeffersonbortoluzzi/blob/output/github-contribution-grid-snake.svg)
