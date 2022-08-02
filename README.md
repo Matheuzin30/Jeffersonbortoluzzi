@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Jefferson Bortoluzzi
 
 - :telescope: Hoje eu trabalho como trainee na Tata Consultancy Services (TCS)
-- :seedling: Estudando Golang e AWS
+- :seedling: Atualmente estou estudando Javascript e Typescript!
 - :mailbox: Contato: Jefferson.bortoluzzi@gmail.com
 
 <div align="center">
